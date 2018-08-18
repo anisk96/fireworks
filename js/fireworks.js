@@ -215,3 +215,7 @@ canvas.addEventListener('mouseup', function(e){
 });
 
 window.onload = loop;
+
+//sound effect?
+//background image?
+//formation?
